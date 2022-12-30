@@ -8,4 +8,4 @@ Follow these simple steps to make this work :
 
 >Then launch the front page from the client directory with "npm run dev" 
 
-
+All credits go to JavaScript Mastery for the tutorial. 
